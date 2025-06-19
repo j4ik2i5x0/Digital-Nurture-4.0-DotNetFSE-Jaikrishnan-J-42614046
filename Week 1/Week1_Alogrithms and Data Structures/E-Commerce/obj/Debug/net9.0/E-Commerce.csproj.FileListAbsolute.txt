@@ -1,0 +1,45 @@
+C:\Users\jaikr\Videos\DotNetFSE\Digital-Nurture-4.0-DotNetFSE-Jaikrishnan-J-42614046\Alogrithms and Data Structures\E-Commerce\bin\Debug\net9.0\E-Commerce.exe
+C:\Users\jaikr\Videos\DotNetFSE\Digital-Nurture-4.0-DotNetFSE-Jaikrishnan-J-42614046\Alogrithms and Data Structures\E-Commerce\bin\Debug\net9.0\E-Commerce.deps.json
+C:\Users\jaikr\Videos\DotNetFSE\Digital-Nurture-4.0-DotNetFSE-Jaikrishnan-J-42614046\Alogrithms and Data Structures\E-Commerce\bin\Debug\net9.0\E-Commerce.runtimeconfig.json
+C:\Users\jaikr\Videos\DotNetFSE\Digital-Nurture-4.0-DotNetFSE-Jaikrishnan-J-42614046\Alogrithms and Data Structures\E-Commerce\bin\Debug\net9.0\E-Commerce.dll
+C:\Users\jaikr\Videos\DotNetFSE\Digital-Nurture-4.0-DotNetFSE-Jaikrishnan-J-42614046\Alogrithms and Data Structures\E-Commerce\bin\Debug\net9.0\E-Commerce.pdb
+C:\Users\jaikr\Videos\DotNetFSE\Digital-Nurture-4.0-DotNetFSE-Jaikrishnan-J-42614046\Alogrithms and Data Structures\E-Commerce\obj\Debug\net9.0\E-Commerce.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaikr\Videos\DotNetFSE\Digital-Nurture-4.0-DotNetFSE-Jaikrishnan-J-42614046\Alogrithms and Data Structures\E-Commerce\obj\Debug\net9.0\E-Commerce.AssemblyInfoInputs.cache
+C:\Users\jaikr\Videos\DotNetFSE\Digital-Nurture-4.0-DotNetFSE-Jaikrishnan-J-42614046\Alogrithms and Data Structures\E-Commerce\obj\Debug\net9.0\E-Commerce.AssemblyInfo.cs
+C:\Users\jaikr\Videos\DotNetFSE\Digital-Nurture-4.0-DotNetFSE-Jaikrishnan-J-42614046\Alogrithms and Data Structures\E-Commerce\obj\Debug\net9.0\E-Commerce.csproj.CoreCompileInputs.cache
+C:\Users\jaikr\Videos\DotNetFSE\Digital-Nurture-4.0-DotNetFSE-Jaikrishnan-J-42614046\Alogrithms and Data Structures\E-Commerce\obj\Debug\net9.0\E-Commerce.sourcelink.json
+C:\Users\jaikr\Videos\DotNetFSE\Digital-Nurture-4.0-DotNetFSE-Jaikrishnan-J-42614046\Alogrithms and Data Structures\E-Commerce\obj\Debug\net9.0\E-Commerce.dll
+C:\Users\jaikr\Videos\DotNetFSE\Digital-Nurture-4.0-DotNetFSE-Jaikrishnan-J-42614046\Alogrithms and Data Structures\E-Commerce\obj\Debug\net9.0\refint\E-Commerce.dll
+C:\Users\jaikr\Videos\DotNetFSE\Digital-Nurture-4.0-DotNetFSE-Jaikrishnan-J-42614046\Alogrithms and Data Structures\E-Commerce\obj\Debug\net9.0\E-Commerce.pdb
+C:\Users\jaikr\Videos\DotNetFSE\Digital-Nurture-4.0-DotNetFSE-Jaikrishnan-J-42614046\Alogrithms and Data Structures\E-Commerce\obj\Debug\net9.0\E-Commerce.genruntimeconfig.cache
+C:\Users\jaikr\Videos\DotNetFSE\Digital-Nurture-4.0-DotNetFSE-Jaikrishnan-J-42614046\Alogrithms and Data Structures\E-Commerce\obj\Debug\net9.0\ref\E-Commerce.dll
+C:\Users\jaikr\Videos\DotNetFSE\Digital-Nurture-4.0-DotNetFSE-Jaikrishnan-J-42614046\Week 1\Alogrithms and Data Structures\E-Commerce\bin\Debug\net9.0\E-Commerce.exe
+C:\Users\jaikr\Videos\DotNetFSE\Digital-Nurture-4.0-DotNetFSE-Jaikrishnan-J-42614046\Week 1\Alogrithms and Data Structures\E-Commerce\bin\Debug\net9.0\E-Commerce.deps.json
+C:\Users\jaikr\Videos\DotNetFSE\Digital-Nurture-4.0-DotNetFSE-Jaikrishnan-J-42614046\Week 1\Alogrithms and Data Structures\E-Commerce\bin\Debug\net9.0\E-Commerce.runtimeconfig.json
+C:\Users\jaikr\Videos\DotNetFSE\Digital-Nurture-4.0-DotNetFSE-Jaikrishnan-J-42614046\Week 1\Alogrithms and Data Structures\E-Commerce\bin\Debug\net9.0\E-Commerce.dll
+C:\Users\jaikr\Videos\DotNetFSE\Digital-Nurture-4.0-DotNetFSE-Jaikrishnan-J-42614046\Week 1\Alogrithms and Data Structures\E-Commerce\bin\Debug\net9.0\E-Commerce.pdb
+C:\Users\jaikr\Videos\DotNetFSE\Digital-Nurture-4.0-DotNetFSE-Jaikrishnan-J-42614046\Week 1\Alogrithms and Data Structures\E-Commerce\obj\Debug\net9.0\E-Commerce.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaikr\Videos\DotNetFSE\Digital-Nurture-4.0-DotNetFSE-Jaikrishnan-J-42614046\Week 1\Alogrithms and Data Structures\E-Commerce\obj\Debug\net9.0\E-Commerce.AssemblyInfoInputs.cache
+C:\Users\jaikr\Videos\DotNetFSE\Digital-Nurture-4.0-DotNetFSE-Jaikrishnan-J-42614046\Week 1\Alogrithms and Data Structures\E-Commerce\obj\Debug\net9.0\E-Commerce.AssemblyInfo.cs
+C:\Users\jaikr\Videos\DotNetFSE\Digital-Nurture-4.0-DotNetFSE-Jaikrishnan-J-42614046\Week 1\Alogrithms and Data Structures\E-Commerce\obj\Debug\net9.0\E-Commerce.csproj.CoreCompileInputs.cache
+C:\Users\jaikr\Videos\DotNetFSE\Digital-Nurture-4.0-DotNetFSE-Jaikrishnan-J-42614046\Week 1\Alogrithms and Data Structures\E-Commerce\obj\Debug\net9.0\E-Commerce.sourcelink.json
+C:\Users\jaikr\Videos\DotNetFSE\Digital-Nurture-4.0-DotNetFSE-Jaikrishnan-J-42614046\Week 1\Alogrithms and Data Structures\E-Commerce\obj\Debug\net9.0\E-Commerce.dll
+C:\Users\jaikr\Videos\DotNetFSE\Digital-Nurture-4.0-DotNetFSE-Jaikrishnan-J-42614046\Week 1\Alogrithms and Data Structures\E-Commerce\obj\Debug\net9.0\refint\E-Commerce.dll
+C:\Users\jaikr\Videos\DotNetFSE\Digital-Nurture-4.0-DotNetFSE-Jaikrishnan-J-42614046\Week 1\Alogrithms and Data Structures\E-Commerce\obj\Debug\net9.0\E-Commerce.pdb
+C:\Users\jaikr\Videos\DotNetFSE\Digital-Nurture-4.0-DotNetFSE-Jaikrishnan-J-42614046\Week 1\Alogrithms and Data Structures\E-Commerce\obj\Debug\net9.0\E-Commerce.genruntimeconfig.cache
+C:\Users\jaikr\Videos\DotNetFSE\Digital-Nurture-4.0-DotNetFSE-Jaikrishnan-J-42614046\Week 1\Alogrithms and Data Structures\E-Commerce\obj\Debug\net9.0\ref\E-Commerce.dll
+C:\Users\jaikr\Videos\DotNetFSE\Digital-Nurture-4.0-DotNetFSE-Jaikrishnan-J-42614046\Week 1\Week1_Alogrithms and Data Structures\E-Commerce\bin\Debug\net9.0\E-Commerce.exe
+C:\Users\jaikr\Videos\DotNetFSE\Digital-Nurture-4.0-DotNetFSE-Jaikrishnan-J-42614046\Week 1\Week1_Alogrithms and Data Structures\E-Commerce\bin\Debug\net9.0\E-Commerce.deps.json
+C:\Users\jaikr\Videos\DotNetFSE\Digital-Nurture-4.0-DotNetFSE-Jaikrishnan-J-42614046\Week 1\Week1_Alogrithms and Data Structures\E-Commerce\bin\Debug\net9.0\E-Commerce.runtimeconfig.json
+C:\Users\jaikr\Videos\DotNetFSE\Digital-Nurture-4.0-DotNetFSE-Jaikrishnan-J-42614046\Week 1\Week1_Alogrithms and Data Structures\E-Commerce\bin\Debug\net9.0\E-Commerce.dll
+C:\Users\jaikr\Videos\DotNetFSE\Digital-Nurture-4.0-DotNetFSE-Jaikrishnan-J-42614046\Week 1\Week1_Alogrithms and Data Structures\E-Commerce\bin\Debug\net9.0\E-Commerce.pdb
+C:\Users\jaikr\Videos\DotNetFSE\Digital-Nurture-4.0-DotNetFSE-Jaikrishnan-J-42614046\Week 1\Week1_Alogrithms and Data Structures\E-Commerce\obj\Debug\net9.0\E-Commerce.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaikr\Videos\DotNetFSE\Digital-Nurture-4.0-DotNetFSE-Jaikrishnan-J-42614046\Week 1\Week1_Alogrithms and Data Structures\E-Commerce\obj\Debug\net9.0\E-Commerce.AssemblyInfoInputs.cache
+C:\Users\jaikr\Videos\DotNetFSE\Digital-Nurture-4.0-DotNetFSE-Jaikrishnan-J-42614046\Week 1\Week1_Alogrithms and Data Structures\E-Commerce\obj\Debug\net9.0\E-Commerce.AssemblyInfo.cs
+C:\Users\jaikr\Videos\DotNetFSE\Digital-Nurture-4.0-DotNetFSE-Jaikrishnan-J-42614046\Week 1\Week1_Alogrithms and Data Structures\E-Commerce\obj\Debug\net9.0\E-Commerce.csproj.CoreCompileInputs.cache
+C:\Users\jaikr\Videos\DotNetFSE\Digital-Nurture-4.0-DotNetFSE-Jaikrishnan-J-42614046\Week 1\Week1_Alogrithms and Data Structures\E-Commerce\obj\Debug\net9.0\E-Commerce.sourcelink.json
+C:\Users\jaikr\Videos\DotNetFSE\Digital-Nurture-4.0-DotNetFSE-Jaikrishnan-J-42614046\Week 1\Week1_Alogrithms and Data Structures\E-Commerce\obj\Debug\net9.0\E-Commerce.dll
+C:\Users\jaikr\Videos\DotNetFSE\Digital-Nurture-4.0-DotNetFSE-Jaikrishnan-J-42614046\Week 1\Week1_Alogrithms and Data Structures\E-Commerce\obj\Debug\net9.0\refint\E-Commerce.dll
+C:\Users\jaikr\Videos\DotNetFSE\Digital-Nurture-4.0-DotNetFSE-Jaikrishnan-J-42614046\Week 1\Week1_Alogrithms and Data Structures\E-Commerce\obj\Debug\net9.0\E-Commerce.pdb
+C:\Users\jaikr\Videos\DotNetFSE\Digital-Nurture-4.0-DotNetFSE-Jaikrishnan-J-42614046\Week 1\Week1_Alogrithms and Data Structures\E-Commerce\obj\Debug\net9.0\E-Commerce.genruntimeconfig.cache
+C:\Users\jaikr\Videos\DotNetFSE\Digital-Nurture-4.0-DotNetFSE-Jaikrishnan-J-42614046\Week 1\Week1_Alogrithms and Data Structures\E-Commerce\obj\Debug\net9.0\ref\E-Commerce.dll
