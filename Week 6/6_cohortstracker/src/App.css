@@ -1,0 +1,6 @@
+.cohorts-container {
+  display: flex;
+  justify-content: center;
+  gap: 20px; /* Provides space between the cohort boxes */
+  flex-wrap: wrap;
+}
