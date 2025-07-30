@@ -1,0 +1,27 @@
+/* Main heading style */
+.main-heading {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.App {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 20px;
+  padding: 20px;
+  font-family: Arial, sans-serif;
+}
+
+.office-card {
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 16px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  text-align: left;
+}
+
+.office-image {
+  width: 100%;
+  height: auto;
+  border-radius: 4px;
+}

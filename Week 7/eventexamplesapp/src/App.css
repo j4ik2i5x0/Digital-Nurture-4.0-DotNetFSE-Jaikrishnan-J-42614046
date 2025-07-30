@@ -1,0 +1,29 @@
+.App {
+  text-align: center;
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+
+.card, .converter-card {
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 20px;
+  margin: 20px auto;
+  max-width: 500px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+button {
+  margin: 5px;
+  padding: 10px 15px;
+  font-size: 16px;
+  cursor: pointer;
+  border-radius: 5px;
+  border: 1px solid #ddd;
+}
+
+input {
+  margin: 0 10px;
+  padding: 8px;
+  font-size: 16px;
+}

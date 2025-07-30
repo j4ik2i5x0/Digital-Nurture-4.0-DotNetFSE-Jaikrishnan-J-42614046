@@ -1,0 +1,31 @@
+.App {
+  font-family: Arial, sans-serif;
+}
+
+.controls {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.controls button {
+  margin: 0 10px;
+  padding: 10px 15px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.container {
+  display: flex;
+  justify-content: space-around;
+  text-align: center;
+}
+
+.column {
+  flex: 1;
+  padding: 0 20px;
+}
+
+/* Create the vertical lines between columns */
+.column:not(:last-child) {
+  border-right: 2px solid green;
+}
